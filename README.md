@@ -2,8 +2,8 @@
 JAVA WEB Development: Jdbc dbUtils for MYSQL.
 
 //------------------------- demo 1: How to use -------------------------
-		JdbcUtils jdbc = new JdbcUtils();  
 
+		JdbcUtils jdbc = new JdbcUtils();  
 		//initialize map
 		Map<String, Object> map = new HashMap<String, Object>() {
 			private static final long serialVersionUID = 1L;
